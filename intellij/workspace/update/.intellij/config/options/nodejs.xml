@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><application>
+  <component name="NodeJsLocalInterpreterManager">
+    <!-- ATTENTION: Will only work on windows so far -->
+    <local-interpreter path="${DEVON_IDE_HOME}/software/node/node.exe"/>
+  </component>
+</application>
